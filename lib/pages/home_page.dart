@@ -19,10 +19,10 @@ class _HomePageState extends State<HomePage> {
   bool _isPlaying = false;
   final sugg = {
     "Play",
+    "Pause",
     "Stop",
     "Play rock music",
     "Play 104 FM",
-    "Pause",
     "Play previous",
     "Play pop music"
   };
