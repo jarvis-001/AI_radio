@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AIRadio',
+      title: 'AI Radio',
       theme: ThemeData(fontFamily: GoogleFonts.poppins().fontFamily),
       debugShowCheckedModeBanner: false, //to remove banner
       home: HomePage(),
